@@ -3,8 +3,8 @@ package json_test
 import (
 	"testing"
 
-	"github.com/inspirer/textmapper/tm-go/parsers/json"
 	"github.com/inspirer/textmapper/tm-parsers/parsertest"
+	"github.com/satishbabariya/json-parser"
 )
 
 var jsParseTests = []struct {

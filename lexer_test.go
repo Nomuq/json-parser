@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/inspirer/textmapper/tm-go/parsers/json"
+	"github.com/satishbabariya/json-parser"
 )
 
 const jsonExample = `
